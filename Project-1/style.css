@@ -18,7 +18,7 @@ html, body{
   border: 10px solid #fff;
   font-family: 'poppins',sans-serif;
   padding: 20px;
-  color: #fff;
+  color: #fff; 
   text-align: center;
   mix-blend-mode: difference; 
 }
