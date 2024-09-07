@@ -6,3 +6,6 @@
 #       🔅  Project-2  
    # Day-2
              Social media icons on hover effect. 
+#       🔅  Project-3  
+  # Day-3
+      CSS Masking with prior properties.  
